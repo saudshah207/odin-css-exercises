@@ -2,3 +2,7 @@
     background-color: hsl(0, 0%, 0%);   /* black */
     color: hsl(0, 0%, 100%);   /* white */
 }
+
+.second {
+    background-color: #ffff00; 
+}
